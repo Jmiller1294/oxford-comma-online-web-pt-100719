@@ -12,6 +12,7 @@ else
   
   new_array = array.pop
   new_array << "and"
+  new_array
 end
 
 end
