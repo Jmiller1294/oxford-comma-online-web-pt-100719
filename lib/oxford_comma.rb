@@ -9,8 +9,8 @@ else
   
   
   
-  array.join(", ")
-  array.split("")
+  new_array = array.join(", ")
+  new_array.split
 end
 
 end
