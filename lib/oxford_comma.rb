@@ -11,8 +11,9 @@ else
   
   
   new_array = " and " + array.pop
+  array << new_array
   
-  new_array
+  array
 end
 
 end
