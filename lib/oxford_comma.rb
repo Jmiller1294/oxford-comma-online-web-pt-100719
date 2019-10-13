@@ -10,7 +10,7 @@ else
   
   
   array.join(", ")
-
+  array.split
 end
 
 end
