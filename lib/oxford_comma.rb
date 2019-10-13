@@ -9,9 +9,9 @@ else
   
   
   
-  new_array = array.join(", ")
+  
   new_array = array.pop
-  new_array
+  new_array << "and"
 end
 
 end
