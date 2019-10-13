@@ -13,7 +13,7 @@ else
   new_array = " and " + array.pop
   array << new_array
   
-  array
+  array.join(",")
 end
 
 end
