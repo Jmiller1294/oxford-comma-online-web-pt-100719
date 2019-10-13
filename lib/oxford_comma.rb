@@ -10,8 +10,8 @@ else
   
   
   
-  new_array = array.pop
-  new_array << "and"
+  new_array = " and" + array.pop
+  
   new_array
 end
 
