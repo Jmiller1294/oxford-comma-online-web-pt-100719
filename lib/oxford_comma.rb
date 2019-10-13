@@ -10,10 +10,10 @@ else
   
   
   
-  new_array = " and " + array.pop
+  new_array = "and " + array.pop
   array << new_array
   
-  array.join(",")
+  array.join(", ")
 end
 
 end
