@@ -10,7 +10,7 @@ else
   
   
   
-  new_array = " and" + array.pop
+  new_array = " and " + array.pop
   
   new_array
 end
