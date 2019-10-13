@@ -11,7 +11,7 @@ else
   
   new_array = array.join(", ")
   new_array.split
-  
+  array.insert(2,'and')
 end
 
 end
