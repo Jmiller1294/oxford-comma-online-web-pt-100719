@@ -10,8 +10,8 @@ else
   
   
   new_array = array.join(", ")
-  new_array.split
-  array.insert(2,'and')
+  new_array = array.pop
+  new_array
 end
 
 end
