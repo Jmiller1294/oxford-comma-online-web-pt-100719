@@ -9,7 +9,7 @@ else
   
   
   array.insert(2,'and')
-  array.join(",")
+  array.join(", ")
 
 end
 
